@@ -4,6 +4,7 @@ Plateforme de CTF pour étudiants d'Epitech (les challenges ne sont pas présent
 ## Comment lancer le projet ?
 En local:
 ```
+npm i
 npm --prefix backend run dev
 npm start -y --prefix frontend
 ```

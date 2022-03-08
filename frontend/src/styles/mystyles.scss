@@ -1,0 +1,10 @@
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../node_modules/bulma/sass/utilities/functions";
+
+$card-color: hsl(0, 0%, 0%);
+$card-background-color: #e4e2e291;
+$card-header-color: #640d0d;
+$table-striped-row-even-background-color: rgba(218, 216, 216, 0.350);
+$table-striped-row-even-hover-background-color: rgba(218, 216, 216, 0.500);
+$progress-bar-background-color: rgba(218, 216, 216, 0.527);
+@import "../../node_modules/bulma";

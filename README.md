@@ -5,6 +5,7 @@ Plateforme de CTF pour étudiants d'Epitech (les challenges ne sont pas présent
 En local:
 ```
 npm i
+npm install react-scripts@3.4.1 -g
 npm --prefix backend run dev
 npm start -y --prefix frontend
 ```

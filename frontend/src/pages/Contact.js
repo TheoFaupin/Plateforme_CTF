@@ -6,10 +6,10 @@ import Navigation from '../components/Navigation';
 
 const Contact = () => {
   const Contributor = [
-    ["Nils Colire", "nils.colire@epitech.eu", "/img/nils.jpg", "Mec le plus bizarre de la sys"],
-    ["JB Moreau", "jean-baptiste.moreau@epitech.eu", "/img/jb.jpg", "Mr. Robot"],
-    ["Théo Faupin", "théo.faupin@epitech.eu", "/img/theo.jpg", "Giga bg"],
-    ["Hugo Vincent", "hugo.vincent@epitech.eu", "/img/hugo.jpg", "Expert en cyber-sécurité informatique"]
+    ["Nils Colire", "nils.colire@epitech.eu", "/img/nils.jpg", "Backend"],
+    ["JB Moreau", "jean-baptiste.moreau@epitech.eu", "/img/jb.jpg", "Challenge"],
+    ["Théo Faupin", "théo.faupin@epitech.eu", "/img/theo.jpg", "Frontend"],
+    ["Hugo Vincent", "hugo.vincent@epitech.eu", "/img/hugo.jpg", "Challenge"]
   ]
 
   return (

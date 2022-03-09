@@ -14,3 +14,4 @@ Avec docker:
 docker-compose up --build
 ```
 Et rendez vous simplement sur: http://localhost:3001/
+(Vous n'aurez pas accès à toutes les fonctionnalités car nous ne pouvons pas vous donner le mot de passe de la DataBase :) , mais soyez patient nous aurons bientôt un VPS)

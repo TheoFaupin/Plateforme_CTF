@@ -5,7 +5,6 @@ RUN mkdir -p /home/node/app &&\
  chown -R node:node /home/node/app
 WORKDIR /home/node/app
 COPY --chown=node:node package.json /home/node/app
-COPY --chown=node:node package-lock.json /home/node/app
 COPY package*.json /home/node/app/
 
 RUN chgrp -R 0 /home/node/app &&\
